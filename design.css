@@ -18,15 +18,16 @@ li{
 
 
 }
-/*.hero{*/
-    /*margin: 0 auto;*/
-    /*!*max-width: 472px;*!*/
-    /*!*width: 80%;*!*/
-    /*display: block;*/
-/*}*/
+.hero{
+    
+    
+}
 
 #logo {
     height: 105px;
     width: 105px;
 
+}
+#hero-text {
+    font-size: 40px;
 }
