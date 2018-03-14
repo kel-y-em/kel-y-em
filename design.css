@@ -3,7 +3,7 @@ body{
     font-family: 'Abel', sans-serif;
 }
 
-h1, h2{
+h1, h2, .circle {
     font-family: 'Anton', sans-serif;
 }
 
@@ -39,4 +39,16 @@ li{
     position: absolute;
     z-index: -2;
     margin-top: 25px;
+}
+.circle{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    width: 105px;
+    height: 105px;
+    border-radius: 90%;
+    border: solid white 6px;
+}
+#red {
+    background-color: #e6563b;
 }
