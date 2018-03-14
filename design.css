@@ -41,7 +41,7 @@ li{
     margin-top: 25px;
 }
 .circle{
-    position: relative;
+    /*position: relative;*/
     color: white;
     font-weight: bold;
     width: 105px;
@@ -51,4 +51,9 @@ li{
 }
 #red {
     background-color: #e6563b;
+}
+
+.circle_text {
+    max-width: 0 auto;
+    text-align: inherit;
 }
