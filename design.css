@@ -1,10 +1,16 @@
 body{
     background-color: #f0f0f0;
+    font-family: 'Abel', sans-serif;
 }
 
-h1 {
+h1, h2{
     font-family: 'Anton', sans-serif;
 }
+
 li{
     list-style-type: none;
+}
+
+.nav-link {
+    color: black;
 }
