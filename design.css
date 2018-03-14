@@ -26,8 +26,17 @@ li{
 #logo {
     height: 105px;
     width: 105px;
-
 }
+
 #hero-text {
     font-size: 40px;
+}
+
+#bck_color {
+    background-color: white;
+    height: 58px;
+    width: 100%;
+    position: absolute;
+    z-index: -2;
+    margin-top: 25px;
 }
