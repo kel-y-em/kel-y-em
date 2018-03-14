@@ -14,3 +14,13 @@ li{
 .nav-link {
     color: black;
 }
+.jumbotron {
+
+
+}
+.hero{
+    margin: 0 auto;
+    max-width: 472px;
+    width: 80%;
+    display: block;
+}
