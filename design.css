@@ -68,3 +68,16 @@ li{
     background-color: #00aba9;
 }
 
+.sm-circle{
+    color: black;
+    font-weight: bold;
+    width: 18px;
+    height: 18px;
+    line-height: 17px;
+    font-size: small;
+    border-radius: 90%;
+    text-align: center;
+    margin: 0 auto;
+    float: left;
+}
+
