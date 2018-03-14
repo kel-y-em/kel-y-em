@@ -18,9 +18,15 @@ li{
 
 
 }
-.hero{
-    margin: 0 auto;
-    max-width: 472px;
-    width: 80%;
-    display: block;
+/*.hero{*/
+    /*margin: 0 auto;*/
+    /*!*max-width: 472px;*!*/
+    /*!*width: 80%;*!*/
+    /*display: block;*/
+/*}*/
+
+#logo {
+    height: 105px;
+    width: 105px;
+
 }
