@@ -49,12 +49,22 @@ li{
     border-radius: 90%;
     border: solid white 6px;
     text-align: center;
-    margin-bottom: 1em;
+    margin: 0 auto;
 }
+
 #red {
     background-color: #e6563b;
 }
 
-.circle_text {
-
+#orange {
+    background-color: #eb9d3a;
 }
+
+#green {
+    background-color: #7cb06c;
+}
+
+#blue {
+    background-color: #00aba9;
+}
+
