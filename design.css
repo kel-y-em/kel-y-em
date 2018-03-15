@@ -3,7 +3,7 @@ body {
     font-family: 'Abel', sans-serif;
 }
 
-h1, h2, .circle {
+h1, h2, h5, .circle {
     font-family: 'Anton', sans-serif;
 }
 
@@ -98,5 +98,15 @@ hr {
     float: left;
 }
 .featured-boxes:nth-child(3){
+    clear: both;
+}
+
+.last {
+    display: block;
+    max-width: 100%;
+}
+
+.last-text {
+    float: left;
     clear: both;
 }
