@@ -15,13 +15,6 @@ li {
     color: black;
 }
 
-.jumbotron {
-
-}
-
-.hero {
-
-}
 
 #logo {
     height: 105px;
@@ -53,19 +46,19 @@ li {
     margin: 0 auto;
 }
 
-#red {
+.red {
     background-color: #e6563b;
 }
 
-#orange {
+.orange {
     background-color: #eb9d3a;
 }
 
-#green {
+.green {
     background-color: #7cb06c;
 }
 
-#blue {
+.blue {
     background-color: #00aba9;
 }
 
@@ -92,4 +85,15 @@ hr {
     width: 10px;
 }
 
+#featured {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    border: 4px solid #E6E6E6;
+    box-sizing: border-box;
+}
+
+.featured-boxes {
+    float: left;
+}
 
