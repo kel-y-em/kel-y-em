@@ -73,11 +73,15 @@ li{
     font-weight: bold;
     width: 18px;
     height: 18px;
-    line-height: 17px;
-    font-size: small;
+    line-height: 19px;
+    font-size: x-small;
     border-radius: 90%;
     text-align: center;
     margin: 0 auto;
-    float: left;
+    float: right;
+    font-family: 'Anton', sans-serif;
 }
 
+hr {
+    border: 1px solid #d5d5d5;
+}
